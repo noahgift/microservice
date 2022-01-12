@@ -1,0 +1,5 @@
+pytest==6.2.5
+pylint==2.12.2
+black==21.12b0
+fastapi==0.71.0
+uvicorn==0.16.0
